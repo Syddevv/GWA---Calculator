@@ -107,13 +107,12 @@ body {
     padding: 20px;
   }
 
-  .title {
-    font-size: 1rem;
-    padding-bottom: 4rem;
-    padding-left: 4.5rem;
-    padding-right: 2rem;
+ .title {
+    font-size: 13.5px;
+    padding-left: 1.5rem;
+    padding-right: 1rem;
+    padding-top: 1.2rem;
   }
-
 
   .grade-input,
   .unit-input {
