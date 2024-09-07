@@ -110,7 +110,10 @@ body {
   .title {
     font-size: 1rem;
     padding-bottom: 4rem;
+    padding-left: 4.5rem;
+    padding-right: 2rem;
   }
+
 
   .grade-input,
   .unit-input {
